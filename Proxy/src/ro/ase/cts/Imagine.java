@@ -1,5 +1,7 @@
 package ro.ase.cts;
 
+//test git
+
 public class Imagine implements InterfataImagine{
 
 	private String fisier = null;
